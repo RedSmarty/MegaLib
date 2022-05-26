@@ -1,0 +1,4 @@
+name: RedCore
+version: '${project.version}'
+main: xyz.redsmarty.redcore.RedCore
+api-version: 1.17
